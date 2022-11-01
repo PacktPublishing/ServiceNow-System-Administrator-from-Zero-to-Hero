@@ -1,4 +1,1 @@
-# ServiceNow-System-Administrator-from-Zero-to-Hero### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781803243092">https://packt.link/free-ebook/9781803243092 </a> </p>
+# ServiceNow-System-Administrator-from-Zero-to-Hero
